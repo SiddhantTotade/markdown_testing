@@ -32,3 +32,12 @@ __Siddhant Totade - Bold__
 [Siddhant Totade](https://www.google.com) - Link type 1
 
 [Siddhant Totade](https://www.google.com "Google's Homepage") - Link type 2
+
+
+```diff
+@@ text in red @@
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
